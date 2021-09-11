@@ -226,6 +226,7 @@ body {
 }
 
 .cart .sellBtn {
+  font-size: 1.3vh;
   display: flex;
   justify-content: center;
   width: 100%;
@@ -243,6 +244,7 @@ body {
 }
 
 .cart .exitBtn {
+  font-size: 1.3vh;
   display: flex;
   justify-content: center;
   width: 100%;
